@@ -1,0 +1,25 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.show-vehicle::-webkit-scrollbar {
+    display: none;
+}
+.locations {
+    overflow: auto;
+    height: 15rem;
+}
+.locations::-webkit-scrollbar {
+    display: none;
+}
+
+
+body {
+    background : #EEEEEE;
+    
+}
+

@@ -1,0 +1,68 @@
+.profile_col1 {
+    /* border: 1px solid red; */
+    /* min-height: 550px;
+    min-height: 800px; */
+    text-align: center;
+    border-right: 5px solid rgb(240, 237, 237);
+}
+.profile_col {
+    /* border: 1px solid red; */
+    /* min-height: 550px;
+    min-height: 600px; */
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.profile_contaier {
+
+    box-shadow: #00000040 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin-left: 5px;
+    max-width: 820px !important;
+    min-height: 400px;
+    
+}
+
+.profile_photo {
+    height: 50%;
+    width: 50%;
+    border-radius: 60%;
+
+}
+
+.photo_box {
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+
+}
+.input_H{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.weight-btn{
+    width: 50% ;
+    
+}
+.label-container{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid red; */
+    width: 100%;
+}
+.outer{
+    width: 80%;
+    margin-top: 10%;
+
+}
+.label{
+    margin-top: 1.5%;
+    font-size: 20px;
+}
+.inputF{
+    width: 60% !important
+}
